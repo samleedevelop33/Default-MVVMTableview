@@ -1,0 +1,6 @@
+framework module Pods_TableDefaultTests {
+  umbrella header "Pods-TableDefaultTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

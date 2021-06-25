@@ -1,0 +1,6 @@
+framework module Pods_TableDefault {
+  umbrella header "Pods-TableDefault-umbrella.h"
+
+  export *
+  module * { export * }
+}

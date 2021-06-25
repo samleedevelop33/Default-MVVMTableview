@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - Hero (1.5.0)
+  - Nuke (9.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Hero
+  - Nuke (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Hero
+    - Nuke
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  Nuke: dd2e6be6a34c042a7861e190632781d11f253026
+
+PODFILE CHECKSUM: 0ae09e1c02cefecff85b68c3db85fb3091a0bb85
+
+COCOAPODS: 1.9.3
